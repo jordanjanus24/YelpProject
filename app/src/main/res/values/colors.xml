@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d32323</color>
+    <color name="colorPrimaryDark">#d32323</color>
+    <color name="colorAccent">#2962FF</color>
+
+    <color name="openedColor">#2962ff</color>
+    <color name="closedColor">#dd2c00</color>
+    <color name="dividerColor">#c2c2c2</color>
+    <color name="timeColor">#c2c2c2</color>
+    <color name="openHours">#f5f5f5</color>
+    <color name="quickDial">#ffd54f</color>
+    <color name="hintColor">#c2c2c2</color>
+    <color name="black7Opacity">#16000000</color>
+    <color name="black60Opacity">#96000000</color>
+    <color name="profileBlackOpacity">#6F000000</color>
+
+</resources>

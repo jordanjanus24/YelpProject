@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">56dp</dimen>
+    <dimen name="status_bar_height">24dp</dimen>
+    <dimen name="navigation_bar_height">42dp</dimen>
+</resources>

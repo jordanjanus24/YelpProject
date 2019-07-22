@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yelp Assignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="yelp_client">D7jHCNkWmsZMKzOeJe3YUg</string>
+    <string name="btn_please_try_again">Please Try Again</string>
+
+    <string name="transitions_profile">profile</string>
+    <string name="transitions_title">title</string>
+    <string name="transitions_rating">rating</string>
+    <string name="transitions_category">category</string>
+
+</resources>
